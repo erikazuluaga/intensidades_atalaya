@@ -9,17 +9,17 @@ El flujo principal del proyecto se ejecuta desde el notebook `mapas_kde_new.ipyn
 
 intensidades_atalaya/
 │
-├── atalaya/ # Información general de la finca
-├── cercados_atalaya/ # Geojson/QMD de los vallados
-├── data/ # Datos CSV procesados de posiciones
-├── geojson_guardados2/ # GeoJSON generados de salidas
-├── kde_grids/ # Grids KDE generales
-├── kde_grids_cercados/ # Grids KDE filtrados por vallados
-├── mapas_kde_html/ # Mapas HTML de intensidades
-├── mapas_kde_html_cercados/ # Mapas HTML por vallado
-│
-├── mapas_kde_new.ipynb # Notebook principal del proyecto
-└── requirements.txt # Dependencias necesarias
+├── atalaya/ # Información general de la finca  
+├── cercados_atalaya/ # Geojson/QMD de los vallados  
+├── data/ # Datos CSV procesados de posiciones  
+├── geojson_guardados2/ # GeoJSON generados de salidas  
+├── kde_grids/ # Grids KDE generales  
+├── kde_grids_cercados/ # Grids KDE filtrados por vallados  
+├── mapas_kde_html/ # Mapas HTML de intensidades  
+├── mapas_kde_html_cercados/ # Mapas HTML por vallado  
+  
+├── mapas_kde_new.ipynb # Notebook principal del proyecto  
+└── requirements.txt # Dependencias necesarias  
 
 
 ---
@@ -40,6 +40,7 @@ Se recomienda usar un entorno virtual:
     venv\Scripts\activate       # Windows
     source venv/bin/activate    # Linux / Mac
     pip install -r requirements.txt
+```
 
 Ejecución del notebook
 Abrir el proyecto en VSCode o Jupyter Notebook.
