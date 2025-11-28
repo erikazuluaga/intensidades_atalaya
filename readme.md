@@ -7,8 +7,8 @@ El flujo principal del proyecto se ejecuta desde el notebook `mapas_kde_new.ipyn
 
 ## Estructura del proyecto
 
-intensidades_atalaya/
-│
+intensidades_atalaya/  
+│  
 ├── atalaya/ # Información general de la finca  
 ├── cercados_atalaya/ # Geojson/QMD de los vallados  
 ├── data/ # Datos CSV procesados de posiciones  
@@ -42,15 +42,15 @@ Se recomienda usar un entorno virtual:
     pip install -r requirements.txt
 ```
 
-Ejecución del notebook
-Abrir el proyecto en VSCode o Jupyter Notebook.
+ Ejecución del notebook
+-Abrir el proyecto en VSCode o Jupyter Notebook.
 
-Seleccionar el entorno donde se instalaron las dependencias.
+-Seleccionar el entorno donde se instalaron las dependencias.
 
-Ejecutar el notebook: mapas_kde_new.ipynb
+-Ejecutar el notebook: mapas_kde_new.ipynb
 Los mapas y archivos generados se guardarán automáticamente en las carpetas correspondientes dentro del repositorio.
 
 Salidas esperadas
-    Mapas HTML mostrando intensidades de pastoreo por periodos
-    KDE grids de densidad por finca y por vallado
-    GeoJSON procesados
+    -Mapas HTML mostrando intensidades de pastoreo por periodos
+    -KDE grids de densidad por finca y por vallado
+    -GeoJSON procesados
