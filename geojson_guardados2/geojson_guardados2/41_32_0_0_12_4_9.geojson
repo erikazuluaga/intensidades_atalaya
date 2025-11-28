@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.82738643693992,
+              37.87459742135763
+            ],
+            [
+              -5.826747650384763,
+              37.875023201109364
+            ],
+            [
+              -5.826679320267846,
+              37.874971040522816
+            ],
+            [
+              -5.826591613704211,
+              37.874921766663896
+            ],
+            [
+              -5.8267931029338,
+              37.874802288494394
+            ],
+            [
+              -5.827260074712937,
+              37.87449131567725
+            ],
+            [
+              -5.82738643693992,
+              37.87459742135763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "provincia": 41,
+        "municipio": 32,
+        "agregado": 0,
+        "zona": 0,
+        "poligono": 12,
+        "parcela": 4,
+        "recinto": 9,
+        "superficie": 0.1214,
+        "pendiente_media": 5.6,
+        "coef_regadio": 0,
+        "admisibilidad": null,
+        "incidencias": null,
+        "uso_sigpac": "IM",
+        "region": null,
+        "altitud": 463
+      }
+    }
+  ],
+  "crs": {
+    "type": "EPSG",
+    "properties": {
+      "code": "4326"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+gid,n_puntos,estado
+1,5,Saltado (< min_pts)
+6,23,Saltado (< min_pts)
+7,24,Saltado (< min_pts)
+11,28,Saltado (< min_pts)
+14,8,Saltado (< min_pts)
+15,5525,OK
+16,885,OK
+17,1,Saltado (< min_pts)
+18,11,Saltado (< min_pts)
+19,2374,OK
+20,164,OK
+21,2766,OK
+22,5665,OK
+23,475,OK
+24,82,OK
+25,189,OK
+26,20,Saltado (< min_pts)
+28,4,Saltado (< min_pts)
+30,278,OK
+67,6,Saltado (< min_pts)
+68,481,OK
+69,543,OK
